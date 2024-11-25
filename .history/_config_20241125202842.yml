@@ -120,7 +120,7 @@ content:
         additional_links:
           - title:  Jinlong's repository
             icon: fab fa-github
-            url: https://github.com/Virgers
+            url: github.com/Virgers
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)

@@ -110,17 +110,17 @@ about_content: | # this will include new lines to allow paragraphs
   I am most interested in: <mark>LLM</mark> potential combination with specific domains, like <mark>geophysics</mark>. I also willing to work on bio-electronics interface or SoC, since I think it is the best way to combine singals, hardware and AI.
 
 content:
-  - title: Some Projects # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        # title: Some projects
+        title: Some projects
         link: github.com/Virgers
         # link_text: Project Website
         additional_links:
           - title:  Jinlong's repository
             icon: fab fa-github
-            url: https://github.com/Virgers
+            url: github.com/Virgers
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -157,18 +157,19 @@ content:
 
   #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-    - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: BS Xinjiang University # Harvard University
-        caption: 2018 - 2022
-        sub_title: BSc Telecommunication
-        # quote: >
-          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-        Lucky was I to collobarate with very nice group of teammates to learn, have fun, stay up late, and compete for common goals.  *Check our vedio at that year to compete with HIT :).(https://www.bilibili.com/video/BV1Hw411R7RT/?spm_id_from=333.999.0.0)* Despite the loss of a set, we managed to win the match strategically and advance to the quarterfinals. 
-        This experience serves as the fundamental to ignite my interest to research further. I learnt basic skills to program, to combine theory and practical robotics performance, how to communicate in a team, how to manage time, how to devote one's spirit to foucs on one thing.
+    # - title: Education # Title for the section
+    # layout: list # Type of content section (list/text)
+    # content:
+    #   - layout: left
+    #     title: BS Xinjiang University # Harvard University
+    #     caption: 2018 - 2022
+    #     sub_title: BSc Telecommunication
+    #     # quote: >
+    #       # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    #     description: | # this will include new lines to allow paragraphs
+
+    #     Lucky was I to collobarate with very nice group of teammates to learn, have fun, stay up late, and compete for common goals.  *Check our vedio at that year to compete with HIT :).(https://www.bilibili.com/video/BV1Hw411R7RT/?spm_id_from=333.999.0.0)* Despite the loss of a set, we managed to win the match strategically and advance to the quarterfinals. 
+    #     This experience serves as the fundamental to ignite my interest to research further. I learnt basic skills to program, to combine theory and practical robotics performance, how to communicate in a team, how to manage time, how to devote one's spirit to foucs on one thing.
 
 #         - layout: left
 #         title: MS Xi'an Jiaotong University & Politecnico di Milano
