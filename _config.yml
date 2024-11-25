@@ -47,7 +47,7 @@ wechat_username: YTarucky
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile_jinlong.png
+about_profile_image: images/profile_Jinlong.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jinlong and I'm a third year graduate in Xi'an Jiaotong University and Politecnico di Milano. Currently, I am focusing on using ML to interpret seismic profiles, especially using Transformer models.
   I am most interested in: <mark>LLM</mark> potential combination with specific domains, like <mark>geophysics<mark>. I also willing to work on bio-electronics interface or SoC, since I think it is the best way to combine singals, hardware and AI.
