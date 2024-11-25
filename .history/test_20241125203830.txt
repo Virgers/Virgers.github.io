@@ -1,0 +1,94 @@
+repository: sproogen/resume-theme
+favicon: images/web-logo.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Jinlong Huo
+# title: Senior Network System Administrator
+email: jinlong.huo99@gmail.com
+website: https://virgers.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+github_username:  Virgers
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile_Jinlong.png
+about_content: | # this will include new lines to allow paragraphs
+ Hi, my name's Jinlong and I'm a third year graduate in Xi'an Jiaotong University and Politecnico di Milano. Currently, I am focusing on using ML to interpret seismic profiles, especially using Transformer models.
+  I am most interested in: <mark>LLM</mark> potential combination with specific domains, like <mark>geophysics</mark>. I also willing to work on bio-electronics interface or SoC, since I think it is the best way to combine singals, hardware and AI.
+
+content:
+  - title: Some Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        # title: Some projects
+        link: github.com/Virgers
+        # link_text: Project Website
+        additional_links:
+          - title:  Jinlong's repository
+            icon: fab fa-github
+            url: https://github.com/Virgers
+         
+  - title: Education # Title for the section
+  layout: list # Type of content section (list/text)
+  content:
+    - layout: left
+      title: BS Xinjiang University 
+      caption: 2018 - 2022
+      sub_title: BSc Telecommunication
+      description: | # this will include new lines to allow paragraphs
+      Lucky was I to collobarate with very nice group of teammates to learn, have fun, stay up late, and compete for common goals.  *Check our vedio at that year to compete with HIT :).(https://www.bilibili.com/video/BV1Hw411R7RT/?spm_id_from=333.999.0.0)* Despite the loss of a set, we managed to win the match strategically and advance to the quarterfinals. 
+      This experience serves as the fundamental to ignite my interest to research further. I learnt basic skills to program, to combine theory and practical robotics performance, how to communicate in a team, how to manage time, how to devote one's spirit to foucs on one thing.
+
+  - layout: left
+  title: MS Xi'an Jiaotong University & Politecnico di Milano
+  caption: 2022 - present
+  sub_title: Msc Telecommunication
+  description: | # this will include new lines to allow paragraphs
+  Lucky again, I was selected to enroll double degree exchange program to Polimi! It was such experience consolidate my mind to pursue for further research. Through this period, I've done many projects and notice the differences between them, from teaching to management, from incentive self-development to passive acceptance
+. Such different educational environments arouse my curiosity about how to scientifically and systematically conduct a research. I want to formulate mine.
+  Most of my published works have done in geophysics using machine learning methods as well as other projects. Saddly, I assume myself as a person who only use them, even though makes little sense regarding some certain topics. I found myself or obliged to delve into more to uncover the philosphy behind both artificical intelligence and applied fileds. Sometimes, it is process matters over results. Like Kant said
+
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
