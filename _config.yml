@@ -33,7 +33,7 @@ content:
         caption: 2018 - 2022
         sub_title: BSc Telecommunication
         description: |
-          Lucky was I to collaborate with a very nice group of teammates to learn, have fun, stay up late, and compete for common goals. *Check our video at that year to compete with HIT :).(https://www.bilibili.com/video/BV1Hw411R7RT/?spm_id_from=333.999.0.0)* Despite the loss of a set, we managed to win the match strategically and advance to the quarterfinals. 
+          Lucky was I to collaborate with a very nice group of teammates to learn, have fun, stay up late, and compete for common goals.  *[Check our video at that year to compete with HIT :).](https://www.bilibili.com/video/BV1Hw411R7RT/?spm_id_from=333.999.0.0)* Despite the loss of a set, we managed to win the match strategically and advance to the quarterfinals. 
           
           This experience serves as the fundamental to ignite my interest to research further. I learnt basic skills to program, to combine theory and practical robotics performance, how to communicate in a team, how to manage time, how to devote one's spirit to focus on one thing.
 
@@ -53,13 +53,17 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Climbing
+      - Travelling
+      - Wathing Movies
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Campus](/images/XJTU_fall_campuss.jpg "XJTU fall Campus")
+      ![Campus](/images/Polimi_spring_campuss.jpg "Polimi spring Campus")
+      ![Mountains](/images/Taibai_mountain.jpg "Shaan Xi Taibai Mountains")
+      ![Mountains](/images/Taiping_mountain.jpg "Shaan Xi Taiping Mountains")
+      ![Mountains](/images/Niubeiliang_mountain.jpg "Shaan Xi NiuBeiLiang Mountains")
+      ![Mountains](/images/Jungfrau.jpg "Jungfrau Mountains")
 
 # Footer
 footer_show_references: true

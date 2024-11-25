@@ -1,0 +1,80 @@
+repository: Virgers/Virgers.github.io
+favicon: images/web-logo.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Jinlong Huo
+# title: Senior Network System Administrator
+email: jinlong.huo99@gmail.com
+website: https://virgers.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: facespics
+github_username:  Virgers
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile_Jinlong.png
+about_content: | # this will include new lines to allow paragraphs
+ Hi, my name's Jinlong and I'm a third year graduate in Xi'an Jiaotong University and Politecnico di Milano. Currently, I am focusing on using ML to interpret seismic profiles, especially using Transformer models.
+  I am most interested in: <mark>LLM</mark> potential combination with specific domains, like <mark>geophysics</mark>. I also willing to work on bio-electronics interface or SoC, since I think it is the best way to combine singals, hardware and AI.
+
+content:
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: BS Xinjiang University
+        caption: 2018 - 2022
+        sub_title: BSc Telecommunication
+        description: |
+          Lucky was I to collaborate with a very nice group of teammates to learn, have fun, stay up late, and compete for common goals.  *[Check our video at that year to compete with HIT :).](https://www.bilibili.com/video/BV1Hw411R7RT/?spm_id_from=333.999.0.0)* Despite the loss of a set, we managed to win the match strategically and advance to the quarterfinals. 
+          
+          This experience serves as the fundamental to ignite my interest to research further. I learnt basic skills to program, to combine theory and practical robotics performance, how to communicate in a team, how to manage time, how to devote one's spirit to focus on one thing.
+
+      - layout: left
+        title: MS Xi'an Jiaotong University & Politecnico di Milano
+        caption: 2022 - present
+        sub_title: Msc Telecommunication
+        description: |
+          Lucky again, I was selected to enroll in a double degree exchange program to Polimi! It was such an experience that consolidated my mind to pursue further research. Through this period, I've done many projects and noticed the differences between them, from teaching to management, from incentive self-development to passive acceptance.
+          
+          Such different educational environments aroused my curiosity about how to scientifically and systematically conduct research. I want to formulate mine.
+          
+          Most of my published works have been done in geophysics using machine learning methods as well as other projects. Sadly, I assume myself as a person who only uses them, even though it makes little sense regarding some certain topics. I found myself obliged to delve into more to uncover the philosophy behind both artificial intelligence and applied fields. Sometimes, the process matters more than results.
+      # quote: > Treat people as an end, and never as a means to an end. It's same for study.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Climbing
+      - Travelling
+      - Wathing Movies
+
+      Look at this cool image  
+      ![Campus](/images/XJTU_fall_campuss.jpg "XJTU fall Campus")
+      ![Campus](/images/Polimi_spring_campuss.jpg "Polimi spring Campus")
+      ![Mountains](/images/Taibai_mountain.jpg "Shaan Xi Taibai Mountains")
+      ![Mountains](/images/Taiping_mountain.jpg "Shaan Xi Taiping Mountains")
+      ![Mountains](/images/Niubeiliang_mountain.jpg "Shaan Xi NiuBeiLiang Mountains")
+      ![Mountains](/images/Jungfrau.jpg "Jungfrau Mountains")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
