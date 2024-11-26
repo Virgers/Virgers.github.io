@@ -24,7 +24,6 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jinlong and I'm a third year graduate in Xi'an Jiaotong University and Politecnico di Milano. Currently, I am focusing on using ML to interpret seismic profiles, especially using Transformer models.
   I am most interested in: <mark>LLM</mark> potential combination with specific domains, like <mark>geophysics</mark>. I also willing to work on bio-electronics interface or SoC, since I think it is the best way to combine singals, hardware and AI.
 
-
 content:
   - title: Education
     layout: list
@@ -48,7 +47,6 @@ content:
           Such different educational environments aroused my curiosity about how to scientifically and systematically conduct research. I want to formulate mine.
       # quote: > Treat people as an end, and never as a means to an end. It's same for study.
 
-
   - title: Reseach Interests  # Title for the section
     layout: list
     content:
@@ -66,7 +64,6 @@ content:
         description: |
           Most of my published works have been done in geophysics using machine learning methods and completed in XJTU. Sadly, I assume myself as a person who only uses them, even though it makes little sense regarding some certain topics. I found myself obliged to delve into more to uncover the philosophy behind both artificial intelligence and applied fields. Sometimes, the process matters more than results. 
           Currently, I have an interest in the application of LLM in geophysics or, more generally, their potential in the interpretation of other domain-specific vocabularies, such as seismic profiles, sensor readings, medical data, biological sequences, etc., which possess rich semantic content and interpretable patterns. More importantly, they should have a sufficient volume of training data. Fundamentally, this idea stems from this series of papers: *[Physics of Language Models](https://physics.allen-zhu.com/)* by Zeyuan Allen-Zhu. The insightful design of context-free ignites the plausibility of the hypothesis that LLM can understand data. If artificially designed context-free data can be interpreted well, accordingly, it is reasonable to infer that other natural scientific data could also be interpreted. The quote by Kant is also applicable to the study itself. That's to say, for me, I do believe LLM works. 
-
 
   - title: A Little More About Me
     layout: text
