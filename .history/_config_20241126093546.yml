@@ -13,6 +13,7 @@ email: jinlong.huo99@gmail.com
 # website: "[Homepage](https://virgers.github.io/)"
 CV: "[View CV](https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link)"
 
+# Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
@@ -25,13 +26,7 @@ about_profile_image: images/profile_Jinlong.png
 about_content: | # this will include new lines to allow paragraphs
  Hi, my name's Jinlong and I'm a third year graduate in Xi'an Jiaotong University and Politecnico di Milano. Currently, I am focusing on using ML to interpret seismic profiles, especially using Transformer models.
   I am most interested in: <mark>LLM</mark> potential combination with specific domains, like <mark>geophysics</mark>. I also willing to work on bio-electronics interface or SoC, since I think it is the best way to combine singals, hardware and AI.
-  
-additional_links:
-  - title: CV
-    icon: images/web-logo.ico
-    url: https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link
 
-Dark Mode (true/false/never)
 content:
   - title: Education
     layout: list
