@@ -6,7 +6,7 @@ version: 2
 
 # Personal info
 name: Jinlong Huo
-title: 3rd year master student
+# title: Senior Network System Administrator
 email: jinlong.huo99@gmail.com
 # website: https://virgers.github.io/
 # CV: https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link
@@ -60,15 +60,13 @@ content:
       - Travelling
       - Wathing Movies
 
-      Look at these cool images:  
-      <img src="/images/XJTU_fall_campuss.jpg" alt="XJTU fall Campus" width="300" height="200">
-      <img src="/images/Polimi_spring_campuss.jpg" alt="Polimi spring Campus" width="300" height="200">
-      
-      Mountain Views:
-      <img src="/images/Taibai_mountain.jpg" alt="Shaan Xi Taibai Mountains" width="300" height="200">
-      <img src="/images/Taiping_mountain.jpg" alt="Shaan Xi Taiping Mountains" width="300" height="200">
-      <img src="/images/Niubeiliang_mountain.jpg" alt="Shaan Xi NiuBeiLiang Mountains" width="300" height="200">
-      <img src="/images/Jungfrau.jpg" alt="Jungfrau Mountains" width="300" height="200">
+      Look at this cool image  
+      ![Campus](/images/XJTU_fall_campuss.jpg "XJTU fall Campus")
+      ![Campus](/images/Polimi_spring_campuss.jpg "Polimi spring Campus")
+      ![Mountains](/images/Taibai_mountain.jpg "Shaan Xi Taibai Mountains")
+      ![Mountains](/images/Taiping_mountain.jpg "Shaan Xi Taiping Mountains")
+      ![Mountains](/images/Niubeiliang_mountain.jpg "Shaan Xi NiuBeiLiang Mountains")
+      ![Mountains](/images/Jungfrau.jpg "Jungfrau Mountains")
 
 # Footer
 footer_show_references: true
