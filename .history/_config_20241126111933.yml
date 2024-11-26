@@ -9,6 +9,9 @@ name: Jinlong Huo
 title: 3rd year master student of XJTU&Polimi
 email: jinlong.huo99@gmail.com
 # website: https://virgers.github.io/
+# CV: https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link
+# website: "[Homepage](https://virgers.github.io/)"
+# CV: "[View CV](https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link)"
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -25,6 +28,22 @@ about_content: | # this will include new lines to allow paragraphs
   I am most interested in: <mark>LLM</mark> potential combination with specific domains, like <mark>geophysics</mark>. I also willing to work on bio-electronics interface or SoC, since I think it is the best way to combine singals, hardware and AI.
 
 content:
+
+  - title: CV  # Title for the section
+    layout: list
+    content:
+      - layout: top-middle
+        # border: weak
+        title: Click the button. It's a more complete CV with more course works lol.
+        # link: BELOW
+        additional_links:
+          - title: JinlongHuo/CV
+            icon: fab fa-github
+            url: https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link
+        # quote: >
+        #   A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
+        # description: |
+
   - title: Education
     layout: list
     content:
@@ -45,6 +64,8 @@ content:
           Lucky again, I was selected to enroll in a double degree exchange program to Polimi! It was such an experience that consolidated my mind to pursue further research. Through this period, I've done many projects and noticed the differences between them, from teaching to management, from incentive self-development to passive acceptance.
           
           Such different educational environments aroused my curiosity about how to scientifically and systematically conduct research. I want to formulate mine.
+          
+          Most of my published works have been done in geophysics using machine learning methods as well as other projects. Sadly, I assume myself as a person who only uses them, even though it makes little sense regarding some certain topics. I found myself obliged to delve into more to uncover the philosophy behind both artificial intelligence and applied fields. Sometimes, the process matters more than results.
       # quote: > Treat people as an end, and never as a means to an end. It's same for study.
 
   - title: A Little More About Me
@@ -55,24 +76,6 @@ content:
       - Travelling
       - Wathing Movies
 
-  - title: Study Interests  # Title for the section
-    layout: list
-    content:
-      - layout: top-middle
-        # border: weak
-        title: Click the button. It's a more complete CV with more course works lol.
-        # link: BELOW
-        additional_links:
-          - title: JinlongHuo/CV
-            icon: fab fa-github
-            url: https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link
-        quote: >
-          Immanuel Kant: Act so as to treat humanity, whether in your own person or in that of another, at all times also as an end, and not only as a means.
-
-        description: |
-        Most of my published works have been done in geophysics using machine learning methods and completed in XJTU. Sadly, I assume myself as a person who only uses them, even though it makes little sense regarding some certain topics. I found myself obliged to delve into more to uncover the philosophy behind both artificial intelligence and applied fields. Sometimes, the process matters more than results. 
-        Currently, I have an interest in the application of LLM in geophysics or, more generally, their potential in the interpretation of other domain-specific vocabularies, such as seismic profiles, sensor readings, medical data, biological sequences, etc., which possess rich semantic content and interpretable patterns. More importantly, they should have a sufficient volume of training data. Fundamentally, this idea stems from this series of papers: *[Physics of Language Models](https://physics.allen-zhu.com/)* by Zeyuan Allen-Zhu. The insightful design of context-free ignites the plausibility of the hypothesis that LLM can understand data. If artificially designed context-free data can be interpreted well, accordingly, it is reasonable to infer that other natural scientific data could also be interpreted. The quote by Kant is also applicable to the study itself. That's to say, for me, I do believe LLM works. 
-  
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
