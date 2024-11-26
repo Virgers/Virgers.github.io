@@ -46,7 +46,7 @@ content:
           
           Such different educational environments aroused my curiosity about how to scientifically and systematically conduct research. I want to formulate mine.
       # quote: > Treat people as an end, and never as a means to an end. It's same for study.
-
+      
   - title: Study Interests  # Title for the section
     layout: list
     content:
@@ -73,6 +73,8 @@ content:
       - Travelling
       - Wathing Movies
 
+  
+  
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
