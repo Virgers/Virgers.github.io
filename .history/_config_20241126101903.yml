@@ -29,31 +29,15 @@ about_content: | # this will include new lines to allow paragraphs
 Dark Mode (true/false/never)
 
 content:
-  - title: Projects # Title for the section
-    layout: list
-    content:
-      - layout: top-middle
-        border: weak
-        title: CV
-        link: BELOW
-        additional_links:
-          - title: JinlongHuo/CV
-            icon: fab fa-github
-            url: https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link
-        # quote: >
-        #   A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
-        description: |
-          This is a complete CV though it's full of my course works I've done, and it might be different from some of my other CVs.
 
-  - title: CV # Title for the section
-    layout: list
-    content:
-      - layout: top-middle
-        additional_links:
-          - title: CV
-            icon: fab fa-github
-            url: https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link
-
+  # - title: CV # Title for the section
+  #   layout: list
+  #   content:
+  #     - layout: top-middle
+  #       additional_links:
+  #         - title: CV
+  #           icon: fab fa-github
+  #           url: https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link
 
   - title: Education
     layout: list
