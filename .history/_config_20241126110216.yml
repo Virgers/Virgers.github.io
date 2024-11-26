@@ -131,7 +131,6 @@ content:
         #   A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
         description: |
           This is a complete CV though it's full of my course works I've done, and it might be different from some of my other CVs.
-          
   - title: Education
     layout: list
     content:
