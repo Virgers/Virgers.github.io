@@ -29,7 +29,6 @@ about_content: | # this will include new lines to allow paragraphs
 Dark Mode (true/false/never)
 
 content:
-
   - title: CV # Title for the section
     layout: list
     content:
@@ -37,6 +36,13 @@ content:
         border: weak
         title: CV
         link: https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link
+        # additional_links:
+        #   - title: sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link
+        # quote: >
+        #   A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
+        # description: |
 
   - title: Education
     layout: list
