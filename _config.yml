@@ -6,7 +6,7 @@ version: 2
 
 # Personal info
 name: Jinlong Huo
-title: 3rd year master student of XJTU&Polimi
+title: 3rd-year master student of XJTU&Polimi
 email: jinlong.huo99@gmail.com
 # website: https://virgers.github.io/
 
@@ -21,8 +21,8 @@ github_username:  Virgers
 # about_title: About Me
 about_profile_image: images/profile_Jinlong.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jinlong and I'm a third year graduate in Xi'an Jiaotong University and Politecnico di Milano. Currently, I am focusing on using ML to interpret seismic profiles, especially using Transformer models.
-  I am most interested in: <mark>LLM</mark> potential combination with specific domains, like <mark>geophysics</mark>. I also willing to work on bio-electronics interface or SoC, since I think it is the best way to combine singals, hardware and AI.
+  Hi, my name's Jinlong and I'm a third-year graduate of Xi'an Jiaotong University and Politecnico di Milano. Currently, I am focusing on using ML to interpret seismic profiles, especially using Transformer models.
+  I am most interested in: <mark>LLM</mark> potential combination with specific domains, like <mark>geophysics</mark>. I am also willing to work on bio-electronics interface or SoC since I think it is the best way to combine singals, hardware and AI.
 
 
 content:
@@ -34,32 +34,32 @@ content:
         caption: 2018 - 2022
         sub_title: BSc Telecommunication
         description: |
-          Lucky was I to collaborate with a very nice group of teammates to learn, have fun, stay up late, and compete for common goals.  *[Check our video at that year to compete with HIT :).](https://www.bilibili.com/video/BV1Hw411R7RT/?spm_id_from=333.999.0.0)* Despite the loss of a set, we managed to win the match strategically and advance to the quarterfinals. 
+          Lucky was to collaborate with a very nice group of teammates to learn, have fun, stay up late, and compete for common goals.  *[Check our video at that year to compete with HIT :).](https://www.bilibili.com/video/BV1Hw411R7RT/?spm_id_from=333.999.0.0)* Despite the loss of a set, we managed to win the match strategically and advance to the quarterfinals. 
           
-          This experience serves as the fundamental to ignite my interest to research further. I learnt basic skills to program, to combine theory and practical robotics performance, how to communicate in a team, how to manage time, how to devote one's spirit to focus on one thing.
+          This experience serves as the fundamental to ignite my interest to research further. I learned basic skills to program, to combine theory and practical robotics performance, how to communicate in a team, how to manage time, how to devote one's spirit to focus on one thing.
 
       - layout: left
         title: MS Xi'an Jiaotong University & Politecnico di Milano
         caption: 2022 - present
         sub_title: Msc Telecommunication
         description: |
-          Lucky again, I was selected to enroll in a double degree exchange program to Polimi! It was such an experience that consolidated my mind to pursue further research. Through this period, I've done many projects and noticed the differences between them, from teaching to management, from incentive self-development to passive acceptance.
+          Luckily again, I was selected to enroll in a double degree exchange program at Polimi! It was such an experience that consolidated my mind to pursue further research. Through this period, I've done many projects and noticed the differences between them, from teaching to management, from incentive self-development to passive acceptance.
           
           Such different educational environments aroused my curiosity about how to scientifically and systematically conduct research. I want to formulate mine.
-      # quote: > Treat people as an end, and never as a means to an end. It's same for study.
+      # quote: > Treat people as an end, and never as a means to an end. It's the same for study.
 
 
-  - title: Reseach Interests  # Title for the section
+  - title: Research Interests  # Title for the section
     layout: list
     content:
       - layout: top-middle
         # border: weak
-        title: Click the button. It's a more complete CV with more course works lol.
+        title: Click the button. It's a more complete CV with more courses works lol.
         # link: BELOW
         additional_links:
           - title: JinlongHuo/CV
             icon: fab fa-github
-            url: https://drive.google.com/file/d/1O0i3D3AEaG_zzi_ig41pNdh_bpHDWdw-/view?usp=drive_link
+            url: https://drive.google.com/file/d/1oSLu4eRn3JEuEimQ3ssdTl_0VU7hEzwN/view?usp=drive_link
         quote: >
           Immanuel Kant: Act so as to treat humanity, whether in your own person or in that of another, at all times also as an end, and not only as a means.
 
@@ -71,10 +71,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: |
-      Alongside my study some of my other interests and hobbies are:
+      Alongside my study, some of my other interests and hobbies are:
       - Climbing
       - Travelling
-      - Wathing Movies
+      - Watching Movies
       - *[Check out some travel diaries before.:)](https://cherry-devourer-bd2.notion.site/Europe-39d823a355d04325a41483de7963cff4)* Hope someday I'll update them lol.
       
 # Footer
