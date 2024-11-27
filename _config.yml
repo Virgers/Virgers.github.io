@@ -21,7 +21,7 @@ github_username:  Virgers
 # about_title: About Me
 about_profile_image: images/profile_Jinlong.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jinlong and I'm a third-year graduate of Xi'an Jiaotong University and Politecnico di Milano. Currently, I am focusing on using ML to interpret seismic profiles, especially using Transformer models.
+  Hi, my name's Jinlong and I'm a third-year Xi'an Jiaotong University and Politecnico di Milano graduate. Currently, I am focusing on using ML to interpret seismic profiles, especially using Transformer models.
   I am most interested in: <mark>LLM</mark> potential combination with specific domains, like <mark>geophysics</mark>. I am also willing to work on bio-electronics interface or SoC since I think it is the best way to combine singals, hardware and AI.
 
 
@@ -34,18 +34,18 @@ content:
         caption: 2018 - 2022
         sub_title: BSc Telecommunication
         description: |
-          Lucky was to collaborate with a very nice group of teammates to learn, have fun, stay up late, and compete for common goals.  *[Check our video at that year to compete with HIT :).](https://www.bilibili.com/video/BV1Hw411R7RT/?spm_id_from=333.999.0.0)* Despite the loss of a set, we managed to win the match strategically and advance to the quarterfinals. 
+          Lucky was to collaborate with a very nice group of teammates to learn, have fun, stay up late, and compete for common goals.  *[Check our video at that year to compete with HIT :).](https://www.bilibili.com/video/BV1Hw411R7RT/?spm_id_from=333.999.0.0)* and *[My writing recordings in Chinese.](https://drive.google.com/file/d/1luu99C7Dx86RGLgOmt9gwhMDMNoUszfe/view?usp=drive_link)* and *[in English](https://drive.google.com/file/d/1mQQ8JyBS1uplRr9EQqvSDcmDhJfgsThv/view?usp=drive_link) Despite the loss of a set, we managed to win the match strategically and advance to the quarterfinals. 
           
-          This experience serves as the fundamental to ignite my interest to research further. I learned basic skills to program, to combine theory and practical robotics performance, how to communicate in a team, how to manage time, how to devote one's spirit to focus on one thing.
+          This experience ignited my interest in research further. I learned basic programming skills, how to combine theory and practical robotics performance, how to communicate in a team, how to manage time, and how to devote one's spirit to focus on one thing.
 
       - layout: left
         title: MS Xi'an Jiaotong University & Politecnico di Milano
         caption: 2022 - present
         sub_title: Msc Telecommunication
         description: |
-          Luckily again, I was selected to enroll in a double degree exchange program at Polimi! It was such an experience that consolidated my mind to pursue further research. Through this period, I've done many projects and noticed the differences between them, from teaching to management, from incentive self-development to passive acceptance.
+          Luckily again, I was selected to enroll in a double-degree exchange program at Polimi! It was such an experience that it consolidated my mind to pursue further research. During this period, I've done many projects and noticed the differences between them, from teaching to management, from incentive self-development to passive acceptance.
           
-          Such different educational environments aroused my curiosity about how to scientifically and systematically conduct research. I want to formulate mine.
+          Such different educational environments aroused my curiosity about how to conduct research scientifically and systematically. I want to formulate my own.
       # quote: > Treat people as an end, and never as a means to an end. It's the same for study.
 
 
@@ -61,7 +61,7 @@ content:
             icon: fab fa-github
             url: https://drive.google.com/file/d/1oSLu4eRn3JEuEimQ3ssdTl_0VU7hEzwN/view?usp=drive_link
         quote: >
-          Immanuel Kant: Act so as to treat humanity, whether in your own person or in that of another, at all times also as an end, and not only as a means.
+          Immanuel Kant: Act to treat humanity, whether in your person or in that of another, at all times also as an end, and not only as a means.
 
         description: |
           Most of my published works have been accomplished in the field of geophysics by applying machine learning methods at XJTU. Regrettably, I consider myself someone who merely utilizes them, even though it might some sense with certain topics. I feel compelled to delve deeper to uncover the philosophy underlying both artificial intelligence and applied fields. Sometimes, the process is more significant than the results.
