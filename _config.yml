@@ -34,7 +34,7 @@ content:
         caption: 2018 - 2022
         sub_title: BSc Telecommunication
         description: |
-          Lucky was to collaborate with a very nice group of teammates to learn, have fun, stay up late, and compete for common goals. Despite the loss of a set, we managed to win the match strategically and advance to the quarterfinals. *[Check our video at that year to compete with HIT :).](https://www.bilibili.com/video/BV1Hw411R7RT/?spm_id_from=333.999.0.0)* and *[recordings in Chinese](https://drive.google.com/file/d/1luu99C7Dx86RGLgOmt9gwhMDMNoUszfe/view?usp=drive_link)*(*[English Version](https://drive.google.com/file/d/1mQQ8JyBS1uplRr9EQqvSDcmDhJfgsThv/view?usp=drive_link)*). 
+          I had the privilege of collaborating with the Hurricane team, where we learned together, shared memorable late-night sessions, and worked towards common goals. Despite the loss of a set, we managed to win the match strategically and advance to the quarterfinals. *[Check our video at that year to compete with HIT :).](https://www.bilibili.com/video/BV1Hw411R7RT/?spm_id_from=333.999.0.0)* and *[recordings in Chinese](https://drive.google.com/file/d/1luu99C7Dx86RGLgOmt9gwhMDMNoUszfe/view?usp=drive_link)*(*[English Version](https://drive.google.com/file/d/1mQQ8JyBS1uplRr9EQqvSDcmDhJfgsThv/view?usp=drive_link)*). 
           
           This experience ignited my research interest further. I learned basic programming skills, how to combine theory and practical robotics performance, how to communicate in a team, how to manage time, and how to devote one's spirit to focus on one thing.
 
@@ -43,7 +43,7 @@ content:
         caption: 2022 - present
         sub_title: Msc Telecommunication
         description: |
-          Luckily again, I was selected to enroll in a double-degree exchange program at Polimi! It was such an experience that it consolidated my mind to pursue further research. During this period, I've done many projects and noticed the differences between them, from teaching to management, from incentive self-development to passive acceptance.
+          Luckily again, I was selected to enroll in a double-degree exchange program at Polimi! It was such an experience that it consolidated my mind to pursue further research. After combing back to XJTU, I felt the differently between these two universities, from teaching to management, but mainly in the study atmosphere.
           
           Such different educational environments aroused my curiosity about how to conduct research scientifically and systematically. I want to formulate my own.
       # quote: > Treat people as an end, and never as a means to an end. It's the same for study.
@@ -66,14 +66,13 @@ content:
         description: |
           Most of my published works have been accomplished in the field of geophysics by applying machine learning methods at XJTU. Regrettably, I consider myself someone who merely utilizes them, even though it might some sense with certain topics. I feel compelled to delve deeper to uncover the philosophy underlying both artificial intelligence and applied fields. Sometimes, the process is more significant than the results.
           
-          Currently, I'm interested in the application of LLM in geophysics or, more generally, their potential in the interpretation of other domain-specific vocabularies, such as seismic profiles, sensor readings, medical data, biological sequences, etc., which have rich semantic content and interpretable patterns. More importantly, they should have an adequate volume of training data. Fundamentally, this idea originates from this series of papers: *[Physics of Language Models](https://physics.allen-zhu.com/)* by Zeyuan Allen-Zhu. The insightful design of context-free kindles the plausibility of the hypothesis that LLM can understand data. <mark>If artificially designed context-free data can be interpreted well, accordingly, it's reasonable to infer that other natural scientific data could also be interpreted.</mark> That is to say, for me, I truly believe LLM works.
-
+          Currently, I'm interested in the application of LLM in geophysics or, more generally, their potential in the interpretation of other domain-specific vocabularies, such as seismic profiles, sensor readings, medical data, biological sequences, etc., which have rich semantic content and interpretable patterns. This idea originates from this series of papers: *[Physics of Language Models](https://physics.allen-zhu.com/)* by Zeyuan Allen-Zhu. The insightful design of context-free kindles the plausibility of the hypothesis that LLM can understand data. <mark>If artificially designed context-free data can be interpreted well, accordingly, it's reasonable to infer that other natural scientific data could also be interpreted.</mark> T
 
   - title: A Little More About Me
     layout: text
     content: |
       Alongside my study, some of my other interests and hobbies are:
-      - Climbing
+      - Hicking
       - Travelling
       - Watching Movies
       - *[Check out some travel diaries before.:)](https://cherry-devourer-bd2.notion.site/Europe-39d823a355d04325a41483de7963cff4)* Hope someday I'll update them lol.
